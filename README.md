@@ -40,7 +40,7 @@ This paper is just the beginning. To truly push the boundaries of what's possibl
 ### How to Get Involved:
 
 - **Join the Agora Discord**: [Click Here to Join](https://discord.com/servers/agora-999382051935506503)
-- **Follow Our Projects**: Check out [Agora's GitHub](https://github.com/agora-labs) for research initiatives and collaboration opportunities.
+- **Follow Our Projects**: Check out [Agora's GitHub](https://github.com/Agora-Lab-AI) for research initiatives and collaboration opportunities.
 - **Contribute to the Discussion**: Share your ideas, propose projects, or volunteer to co-author new research papers.
 
 Together, we can **redefine economic modeling** and drive meaningful change through the convergence of **AI, economics, and open-source collaboration**.
